@@ -1,0 +1,267 @@
+.row {
+    width: 100%;
+    height: 3000px;
+    background: rgba(59,59,59,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .navbar {
+    width: 100%;
+    height: 60px;
+    background: rgba(0,75,92,0.8999999761581421);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+
+  .bt{
+    background-color: #00C2FF;
+    position: absolute;
+    margin-left: 1400px;
+    color: #fff;
+    width: 90px;
+    height: 50px;
+  }
+  .logo {
+    width: 58px;
+    height: 55px;
+    background: url("img/250px-Vocaloid_logo.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2px;
+    left: 49px;
+    overflow: hidden;
+  }
+  .v7_89 {
+    width: 67px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 21px;
+    left: 591px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 15px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v7_90 {
+    width: 55px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 21px;
+    left: 696px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 15px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v7_91 {
+    width: 91px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 21px;
+    left: 789px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 15px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v7_92 {
+    width: 63px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 21px;
+    left: 918px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 15px;
+    opacity: 1;
+    text-align: center;
+  }
+  .box1 {
+    width: 100%;
+    height: 960px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 80px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v7_110 {
+    width: 100%;
+    height: 960px;
+    background: url("img/miku.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+
+  .box1-1{
+    color: #fff;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 50px;
+    font-size: 70px;
+  }
+  .name {
+    color: #fff;
+  }
+
+  .gif{
+    margin-top: 4%;
+    margin-left: 60%;
+  }
+  .v7_111 {
+    width: 50%;
+    height: 960px;
+    background: rgba(0,0,0,0.5);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    margin-left: 1000px;
+    overflow: hidden;
+  }
+  .v9_27 {
+    width: 100%;
+    height: 600px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 1062px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v9_30 {
+    width: 686px;
+    height: 144px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 228px;
+    left: 80px;
+    overflow: hidden;
+  }
+  .v9_31 {
+    width: 686px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 48px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v11_39 {
+    width: 389px;
+    color: rgba(255,0,0,1);
+    position: absolute;
+    top: 23px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 48px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v11_56 {
+    width: 100%;
+    height: 804px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 1684px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v11_57 {
+    width: 750px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 120px;
+    left: 80px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 48px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v11_72 {
+    width: 100%;
+    height: 264px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 2736px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v11_73 {
+    width: 173px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 120px;
+    left: 593px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 15px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v11_75 {
+    width: 173px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 120px;
+    left: 786px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 15px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v11_76 {
+    width: 173px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 120px;
+    left: 977px;
+    font-family: Montserrat;
+    font-weight: Bold;
+    font-size: 15px;
+    opacity: 1;
+    text-align: left;
+  }
+  .name {
+    color: #fff;
+  }
+  .logo-footer {
+    width: 299px;
+    height: 36px;
+    background: url("img/Vocaloid_logo.svg.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 108px;
+    left: 83px;
+    overflow: hidden;
+  }
